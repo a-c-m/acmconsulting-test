@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://a-c-m.github.io/acmconsulting-test//sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
